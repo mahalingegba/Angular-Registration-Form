@@ -1,0 +1,15 @@
+#submit {
+  position: relative;
+  bottom: -4px;
+}
+
+input.ng-touched.ng-invalid {
+  border: 1px solid red;
+}
+
+#message {
+  background-color: red;
+}
+h2 {
+  text-align: center;
+}
